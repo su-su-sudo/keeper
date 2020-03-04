@@ -4,11 +4,12 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "engines":{
+  "engines": {
     "npm": "6.13.7",
     "node": "10.15.3"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "3.2.0"
